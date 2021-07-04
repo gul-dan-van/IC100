@@ -1,0 +1,89 @@
+.light_bulb{
+    margin-top: 10px;
+}
+.top_container{
+    padding-top: 7px;
+}
+.travard_img{
+    width: 40em;
+    margin: 30px;
+}
+
+.random_shit{
+    margin-top: 8px;
+}
+
+span{
+    text-decoration: underline;
+}
+
+.floaters{
+    position: relative;
+    margin: 100px 250px;
+}
+
+.double_float_left{
+    width: 100px;
+    margin: auto;
+    border: none;
+    border-top: double 5px;
+    border-color: #d3d3d3;
+    display: block;
+    position: absolute;
+    top: 40%;
+    opacity: 0.7;
+}
+
+.double_float_right{
+    width: 100px;
+    margin:auto;
+    border: none;
+    border-top: double 5px;
+    border-color: #d3d3d3;
+    display: block;
+    position: absolute;
+    right: 0px;
+    bottom: 50%;
+    opacity: 0.7;
+}
+.skills_that_kill{
+    display: block;
+    margin: auto;
+}
+
+.middle_container{
+    position: relative;
+    margin: 90px 250px;
+}
+
+.temp_circles_left{
+    border-radius: 100%;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    float: left;
+    position: absolute;
+    left: 0;
+}
+.temp_circles_right{
+    position: absolute;
+    right: 0;
+    border-radius: 100%;
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+
+.skill_header{
+    padding-left: 200px;
+    margin-top: 10px;
+}
+.skill_text{
+    width:800px;
+    margin-top: 30px;
+    /* margin-left: 200px; */
+    margin-left: auto;
+}
+.skill_set{
+    margin-bottom: 100px;
+}
